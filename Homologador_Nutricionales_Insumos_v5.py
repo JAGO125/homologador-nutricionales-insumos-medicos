@@ -13,10 +13,10 @@ from PIL import Image, ImageTk
 
 # ================= CONFIGURACIÓN BASE DE DATOS =================
 
-servidor = "192.168.10.10"
-base_datos = "BDProcedimiento"
-usuario = "AlejandraME"
-contraseña = "@leja_Mora"
+servidor = 
+base_datos = 
+usuario = 
+contraseña = 
 
 # ===============================================================
 def resource_path(relative_path):
@@ -425,4 +425,5 @@ class HomologadorApp:
 if __name__ == "__main__":
     root = tk.Tk()
     app = HomologadorApp(root)
+
     root.mainloop()
