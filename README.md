@@ -1,4 +1,4 @@
-# Homologador Inteligente de Insumos y MAOS
+# Homologador Inteligente de Nutricionales e Insumos Médicos
 
 Motor de homologación automática de productos nutricionales e insumos médicos.
 
